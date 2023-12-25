@@ -1,0 +1,1 @@
+//gerado automaticamente quando se cria eks cluster
